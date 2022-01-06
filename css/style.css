@@ -816,6 +816,10 @@ top:80px;
    {
        line-height: 25px
    }
+	.head-links
+	{
+		margin-left:3px !important;
+	}
 }
 @media (max-width: 768px)
     {
