@@ -882,3 +882,11 @@ top:80px;
           width: 100%;
       }
     }
+@media(max-width:380px)
+{      
+	.text
+	{
+		 font-size: 1.2em !important;
+       line-height: inherit;
+	}
+}
