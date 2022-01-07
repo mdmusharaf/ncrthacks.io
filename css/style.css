@@ -887,6 +887,6 @@ top:80px;
 	.text
 	{
 		 font-size: 1.2em !important;
-       line-height: 26px;
+       line-height: 26px !important;
 	}
 }
