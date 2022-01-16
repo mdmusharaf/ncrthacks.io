@@ -824,12 +824,12 @@ top:80px;
    }
    .classes , .Pdf , .sample , .previous , .syllabus 
    {
-       width: 90% !important;
+       width: 95% !important;
        height: 500px !important;
    }
    .books
    {
-       width: 90% !important;
+       width: 95% !important;
        margin-right: 0px !important;
    }
    .head-links-pre a
