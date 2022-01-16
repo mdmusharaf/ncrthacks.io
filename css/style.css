@@ -821,6 +821,61 @@ top:80px;
 	{
 		margin-left:0px !important;
 	}
+	 .text-sub
+   {
+       font-size: 2.1rem;
+       line-height: 50px;
+   }
+   .detail
+   {
+       width: 100%;
+       word-break: break-word;
+       word-spacing: 4px;
+       font-size: 16px;
+      margin: 0 auto;
+   }
+   .section
+   {
+       width: 100%;
+       height:95rem;
+       flex-direction: column;
+   }
+   .maths , .english
+   {
+       width: 95%;
+   }
+   .science
+   {
+       width: 100%;
+       flex-direction: column;
+       height: 2250px;
+   }
+   .physics , .chemistry , .biology
+   {
+       width: 95%;
+       height: 700px;
+   }
+   .sst
+   {
+       width: 100%;
+       height: 3750px;
+       flex-wrap: nowrap;
+       flex-direction: column;
+   }
+   .history , .pol , .disaster , .road , .geo
+   {
+       width: 95%;
+   }
+  .heading-class
+  {
+      font-size: 2.2rem;
+  
+  }
+  .nct
+  {
+      width: 100%;
+      height: 600px;
+  }
 }
 @media (max-width: 768px)
     {
