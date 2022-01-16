@@ -701,7 +701,8 @@ top:80px;
     display: block;
     position: relative;
     top: 3px;
- height: auto;
+     left:3px;
+      height: auto;
      cursor: pointer;
   
        }
