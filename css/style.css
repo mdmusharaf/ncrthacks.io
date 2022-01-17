@@ -352,11 +352,17 @@ h1
 #icon
 {
     font-size:3rem ;
-     position: relative;
-     left: 16px;
-     top: 12px;
+    margin: 15px 20px;
     color: #7344d2;
     
+}
+#icon-bell
+{
+    font-size:3rem ;
+   position: relative;
+   left: 16px;
+   top: 12px;
+    color: #7344d2;
 }
 .heading
 {
@@ -365,6 +371,7 @@ h1
     text-transform: uppercase;
     font-size: 1.7rem;
     font-family: 'Montserrat', sans-serif;
+    margin: 5px auto; 
 }
 .head-links
 {
